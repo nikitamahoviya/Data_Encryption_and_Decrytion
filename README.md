@@ -15,7 +15,6 @@ an unsecured network.</p>
 <br>
 
 
-Feel Free to head to this Youtube Video  for demo of the project : https://youtu.be/N4Kap2nE2Pc 
 
 # METHODOLOGY : 
 <div>
